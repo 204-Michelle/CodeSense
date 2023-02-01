@@ -1,6 +1,6 @@
 import { FacebookIcon } from "../assets/icons/FacebookIcon";
 import { InstagramIcon } from "../assets/icons/InstagramIcon";
-import { CodeSense as CodeSenseLogo } from "../assets/logos/CodeSenseLogo";
+import { CodeSenseLogo } from "../assets/logos/CodeSenseLogo";
 import { TwitterIcon } from "../assets/icons/TwitterIcon";
 
 export const Footer = () => {

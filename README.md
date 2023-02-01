@@ -3,7 +3,7 @@
 Astro, React, Tailwind, Framer Motion
 
 ## Live link
-[https://CodeSense.netlify.app](https://CodeSense.netlify.app)
+[https://codesense.netlify.app](https://codesense.netlify.app)
 
 ##  Project Structure
 

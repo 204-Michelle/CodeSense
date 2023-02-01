@@ -1,13 +1,9 @@
-# Tailcast
-
-Dark themed website template built on AstroJS, designed for saas/startup business.
-
 ## Tech stack:
 
 Astro, React, Tailwind, Framer Motion
 
 ## Live link
-[https://tailcast.vercel.app/](https://tailcast.vercel.app/)
+[https://CodeSense.netlify.app](https://CodeSense.netlify.app)
 
 ##  Project Structure
 
